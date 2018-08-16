@@ -1,0 +1,18 @@
+{
+  "name": "bower-azure-blob-storage",
+  "version": "0.0.1",
+  "authors": [
+    "Luke Johnstone <luke@touchfoundry.co.za>"
+  ],
+  "description": "wrapper for azure's blob storage javascript client",
+  "main": [
+    "azure-storage.blob.js"
+  ],
+  "keywords": [
+    "azure"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+  ]
+}
